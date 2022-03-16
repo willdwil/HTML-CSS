@@ -162,35 +162,6 @@ body main {
   margin: 10% 0;
 }
 
-body main .about {
-  margin: 20% 0;
-  color: #444748;
-  text-align: center;
-  width: 70%;
-}
-
-body main .about p {
-  font-family: 'Segoe UI';
-  font-weight: 600;
-  color: #656565;
-  margin: 5% 0;
-  font-size: 16px;
-  text-align: justify;
-}
-
-body main .about span {
-  font-size: 10px;
-}
-
-body main .about .gambar {
-  margin: 20px 0;
-}
-
-body main .about .gambar img {
-  margin: 0 1%;
-  height: 40px;
-}
-
 body footer {
   border-radius: 100px 80px 0 0;
   width: 100%;
