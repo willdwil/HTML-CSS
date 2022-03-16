@@ -287,6 +287,8 @@ main .about h1 span:hover {
 .contentss {
     margin-top: 100px;
     text-align: center;
+    width: 75%;
+    margin: 0 auto;
 }
 
 .contentss img{
