@@ -286,6 +286,7 @@ main .about h1 span:hover {
 /*Roadmap*/
 .contentss {
     margin-top: 100px;
+    text-align: center;
 }
 
 .contentss img{
