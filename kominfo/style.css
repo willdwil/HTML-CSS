@@ -239,6 +239,7 @@ main .about {
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
   line-height: 25px;
+  max-height: calc(25px * 8);
   overflow: hidden;
 }
 
