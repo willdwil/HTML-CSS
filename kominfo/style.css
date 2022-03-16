@@ -351,3 +351,64 @@ main .about h1 span:hover {
 /*Roadmap*/
 
 /*# sourceMappingURL=style.css.map */
+/*footer*/
+footer{
+  font-family: Georgia;
+  background-color: #00678F;
+  color: white;
+  width: auto;
+  height: auto;
+}
+
+footer .contact{
+  padding: 50px;
+}
+
+footer .contact-item{
+  float: left;
+  margin-right: 70px;
+}
+
+footer .contact-item hr{
+  border: solid;
+}
+
+footer .contact-list li {
+  list-style: none;
+  display: block;
+  padding-top: 10px;
+}
+
+footer .contact-list li a{
+  color: antiquewhite;
+  display: inline;
+}
+
+footer .comment hr{
+  border: solid;
+}
+
+footer .comment-text{
+  width: 270px;
+  font-size: 12px;
+}
+
+footer .comment-submit{
+  width: 100px;
+  font-size: 12px;
+  font-family: Georgia;
+  background-color:#dee7ec;
+  color: #000;
+}
+
+footer .contact img{
+  width: 50px;
+  height: 50px;
+}
+
+footer .copyright{
+  padding: 10px;
+  background-color: black;
+  text-align: center;
+  font-family: Georgia;
+}
