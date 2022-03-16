@@ -254,7 +254,7 @@ body footer .container .cp p {
   color: #FFFFFF;
   font-size: 12px;
 }
-
+/*ABOUT*/
 main .about {
   padding: 100px;
   height:  100vh;
@@ -315,5 +315,7 @@ main .about h1 span:hover {
   position: absolute;
   left:  -100px;
 }
+
+/*ABOUT*/
 
 /*# sourceMappingURL=style.css.map */
