@@ -228,7 +228,7 @@ body footer .container .cp p {
 /*ABOUT*/
 main .about {
   padding: 100px;
-  height:  100vh;
+  height:  max-content;
 }
 
 .description {
