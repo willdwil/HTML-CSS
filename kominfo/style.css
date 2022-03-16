@@ -361,7 +361,7 @@ footer{
 }
 
 .contact{
-  padding: 10px;
+  padding: 30px;
 }
 
 .contact-item{
@@ -389,12 +389,12 @@ footer{
 }
 
 .comment-text{
-  width: 270px;
+  width: 250px;
   font-size: 12px;
 }
 
 .comment-submit{
-  width: 100px;
+  width: 80px;
   font-size: 12px;
   font-family: Georgia;
   background-color:#dee7ec;
