@@ -63,6 +63,11 @@
   .contentss img{
     height: 100px;
     width: 100px;
+  }
+  
+  .txt-contents {
+    font-size: 8px;
+  }
   
   body footer .container .contact {
     padding: 5px;
