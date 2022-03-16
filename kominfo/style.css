@@ -225,6 +225,7 @@ body footer .container .cp p {
   color: #FFFFFF;
   font-size: 12px;
 }
+
 /*ABOUT*/
 main .about {
   padding: 100px;
@@ -238,7 +239,6 @@ main .about {
   font-size: 15px;
   font-family: 'Roboto', sans-serif;
   line-height: 25px;
-  max-height: calc(25px * 8);
   overflow: hidden;
 }
 
