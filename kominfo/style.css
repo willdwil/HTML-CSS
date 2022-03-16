@@ -21,7 +21,6 @@ a {
 
 body {
   font-family: 'Inter', sans-serif;
-  display: block;
 }
 
 body .navbar {
@@ -149,7 +148,7 @@ body .home .content img {
 body main {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  display: block;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
