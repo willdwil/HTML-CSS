@@ -333,6 +333,21 @@ main .about h1 span:hover {
    color: black;
  }
 
+  /* Tambahkan CSS untuk tags <input> dan <textarea> */
+  input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+  }
+  
+  /* Tambahkan CSS untuk contact-submit */
+  .contact-submit {
+    background-color: #dee7ec;
+    color: #889eab;
+  }
 /*Roadmap*/
 
 /*# sourceMappingURL=style.css.map */
