@@ -20,12 +20,7 @@
     -webkit-filter: drop-shadow(4px 7px 6px rgba(0, 0, 0, 0.4));
             filter: drop-shadow(4px 7px 6px rgba(0, 0, 0, 0.4));
   }
-  body main .about p {
-    font-size: 10px;
-  }
-  body main .about .gambar img {
-    height: 20px;
-  }
+  
   body footer .container .cp {
     margin-top: 10px;
   }
@@ -64,15 +59,7 @@
     -webkit-filter: drop-shadow(4px 7px 6px rgba(0, 0, 0, 0.4));
             filter: drop-shadow(4px 7px 6px rgba(0, 0, 0, 0.4));
   }
-  body main .about p {
-    font-size: 8px;
-  }
-  body main .about span {
-    font-size: 6px;
-  }
-  body main .about .gambar img {
-    height: 18px;
-  }
+  
   body footer .container .contact {
     padding: 5px;
   }
