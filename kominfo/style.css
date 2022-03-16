@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p, div {
           box-sizing: border-box;
 }
 
-li {
+.navbar li {
   list-style: none;
 }
 
@@ -254,4 +254,66 @@ body footer .container .cp p {
   color: #FFFFFF;
   font-size: 12px;
 }
+
+main .about {
+  padding: 100px;
+  height:  100vh;
+}
+
+.description {
+  text-indent: 35px;
+  text-align: justify;
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  line-height: 25px;
+  max-height: calc(25px * 8);
+  overflow: hidden;
+}
+
+main .about .description li{
+  margin-left: 20px;
+  text-indent: 2px;
+}
+
+main .about h4 {
+  color: #00678F;
+  font-size:  22px;
+  line-height: 45px;
+}
+
+main .about h1 span {
+  color: #00678F;
+}
+
+main .about h1 span:hover {
+  font-size: 35px;
+}
+
+.button-readmore::after {
+  content:  'Read more..'
+}
+
+.button-readmore {
+  color: #00678F;
+  cursor: pointer;
+}
+
+.button-readmore:hover {
+  color: #ccc;
+}
+
+#check-readmore:checked ~ .button-readmore::after {
+  content: 'Read less..'
+}
+
+#check-readmore:checked ~ .description {
+  max-height: 150vh;
+}
+
+#check-readmore {
+  position: absolute;
+  left:  -100px;
+}
+
 /*# sourceMappingURL=style.css.map */
