@@ -352,13 +352,7 @@ main .about h1 span:hover {
 
 /*# sourceMappingURL=style.css.map */
 /*footer*/
-footer{
-  font-family: Georgia;
-  background-color: #00678F;
-  color: white;
-  width: auto;
-  height: auto;
-}
+
 
 footer .contact{
   padding: 50px;
